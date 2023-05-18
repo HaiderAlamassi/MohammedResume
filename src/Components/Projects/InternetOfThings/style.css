@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  
+  h2 {
+    color: #666;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .question {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+
+  h2 {
+    color: #eb5424;
+  }
+
+  ul {
+    list-style: none;
+  }
